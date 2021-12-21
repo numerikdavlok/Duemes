@@ -12,11 +12,11 @@ L'enjeu principal de ce projet est de développer en particulier un script css o
 pour souligner certaines caractéristiques du texte.
 
 Le deuxième élément que l'on aimerait développer à travers ce projet serait de souligner le caractère *ininterrompu* du texte d'Eluard en développant une navigation hypertexte à travers ce poème en liant certains mots à d'autres ou à d'autres parties du texte. Cela serait souligné par un déroulement continu (*ininterrompu*) du texte sur l'interface. </br>
-Ce travail serait également un prestexte à comprendre dans la pratique du fonctionnement de la possibilité d'adapter un site à différents interfaces.
+Ce travail serait également un pretexte à comprendre dans la pratique du fonctionnement de la possibilité d'adapter un site à différents interfaces.
 
 ## Temps de travail
 
-### Recherche et documentation¨
+### Recherche et documentation
 
 
 ### Apprentissage des outils utilisés
