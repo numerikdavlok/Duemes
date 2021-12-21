@@ -9,7 +9,7 @@ L'enjeu principal de ce projet est de développer en particulier un script css o
 - gsap
 - utilisation d'image 
 - animation 3D avec aframe, three.js, spline 3D 
-- parallaxe
+- parallax.js
 - image map
 - ...</br>
 pour souligner certaines caractéristiques du texte.
