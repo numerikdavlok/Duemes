@@ -10,14 +10,23 @@ L'enjeu principal de ce projet est de développer en particulier un script css o
 - utilisation d'image 
 - animation 3D avec aframe, three.js, spline 3D </br>
 pour souligner certaines caractéristiques du texte.
-</br>
+
 Le deuxième élément que l'on aimerait développer à travers ce projet serait de souligner le caractère *ininterrompu* du texte d'Eluard en développant une navigation hypertexte à travers ce poème en liant certains mots à d'autres ou à d'autres parties du texte. Cela serait souligné par un déroulement continu (*ininterrompu*) du texte sur l'interface. </br>
 Ce travail serait également un prestexte à comprendre dans la pratique du fonctionnement de la possibilité d'adapter un site à différents interfaces.
 
 ## Temps de travail
 
-### Recherche et documentation
+### Recherche et documentation¨
+
 
 ### Apprentissage des outils utilisés
 
-### Développement 
+### Développement
+#### Récolte et formatage des données
+Téléchargement du texte et utilisation des fonctions native d'océrisation de mac.</br>
+Formatage du texte dans word pour avoir une édition semblable à celle de Gallimard.</br>
+Apposition des balises xml en utilisant des expressions régulières à travers un algorithme python.</br>
+--> xxh
+
+#### Développement sur VSCode
+
