@@ -17,12 +17,12 @@ pour créer une dynamique de lecture analogue à celle de Phallaina. Notre envie
 Ce travail serait également un pretexte pour comprendre dans la pratique du fonctionnement de la possibilité d'adapter un site à différents interfaces.
 
 ## Temps de travail
-Ecriture du readme du projet inital (Poésie ininterrompue): 14h-16h (21.12.21)
-Réflexion commune sur le projet: 18h-20h (21.12.21)
-Réécriture du readme suite la la réflexion commune: 17h-17h30 (28.12.21)
+Ecriture du readme du projet inital (Poésie ininterrompue): 14h-16h (21.12.21)</br>
+Réflexion commune sur le projet: 18h-20h (21.12.21)</br>
+Réécriture du readme suite la la réflexion commune: 17h-17h30 (28.12.21)</br>
 
 ### Recherche et documentation
-Recherche sur Phallaina et sur les parallax layers: 16h-18h (28.12.21)
+Recherche sur Phallaina et sur les parallax layers: 16h-18h (28.12.21)</br>
 
 ### Apprentissage des outils utilisés
 
