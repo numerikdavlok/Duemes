@@ -2,7 +2,7 @@
 
 ## Description du projet
 
-Développement d'un site en html, javascript et css pour publier numériquement la correspondance littéralopicturale que Yan Pavlik et Linus Kessler ont entretenus durant l'année 2020. Le projet prend pour exemple l'application *Phallaina* sortie en 2016 afin de développer une lecture numérique horizontale du receuil. </br>
+Développement d'un site en html, javascript et css pour publier numériquement la correspondance littéralopicturale que Yan Pavlik et Linus Kessler ont entretenus durant l'année 2020. Le projet prend pour exemple l'application *Phallaina* sortie en 2016 afin de développer une lecture numérique horizontale du recueil. </br>
 L'enjeu principal de ce projet est de se plonger dans le maniement du css pour développer un script original utilisant les outils discutés en cours : 
 - parallax.js
 - css grids
