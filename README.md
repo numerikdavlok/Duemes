@@ -2,34 +2,32 @@
 
 ## Description du projet
 
-Développement d'un site en html, javascript et css publier numériquement le poème de 1946 "poésie ininterrompue" par Paul Eluard. L'idée est de partir d'un texte en format pdf (scan d'une édition Gallimard de 1953) pour le transformer en fichier .txt puis d'y apposer des balises xml afin de pouvoir utiliser le texte dans un environnement web. </br>
-L'enjeu principal de ce projet est de développer en particulier un script css original utilisant les outils discutés en cours : 
+Développement d'un site en html, javascript et css pour publier numériquement la correspondance littéralopicturale que Yan Pavlik et Linus Kessler ont entretenus durant l'année 2020. Le projet prend pour exemple l'application *Phallaina* sortie en 2016 afin de développer une lecture numérique horizontale du receuil. </br>
+L'enjeu principal de ce projet est de se plonger dans le maniement du css pour développer un script original utilisant les outils discutés en cours : 
+- parallax.js
 - css grids
 - import de police
 - gsap
 - utilisation d'image 
-- animation 3D avec aframe, three.js, spline 3D 
-- parallax.js
-- image map
+- (animation 3D avec aframe, three.js, spline 3D 
+- image map)
 - ...</br>
-pour souligner certaines caractéristiques du texte.
-
-Le deuxième élément que l'on aimerait développer à travers ce projet serait de souligner le caractère *ininterrompu* du texte d'Eluard en développant une navigation hypertexte à travers ce poème en liant certains mots à d'autres ou à d'autres parties du texte, à des analyses du poème, des images représentants certaines métaphores, etc. Cela serait souligné par un déroulement continu (*ininterrompu*) du texte sur l'interface.</br>
+pour créer une dynamique de lecture analogue à celle de Phallaina. Notre envie est avant tout de comprendre et de s'approprier ces outils à travers le cas concret de ce projet. 
+</br>
 Ce travail serait également un pretexte pour comprendre dans la pratique du fonctionnement de la possibilité d'adapter un site à différents interfaces.
 
 ## Temps de travail
+Ecriture du readme du projet inital (Poésie ininterrompue): 14h-16h (21.12.21)
+Réflexion commune sur le projet: 18h-20h (21.12.21)
+Réécriture du readme suite la la réflexion commune: 17h-17h30 (28.12.21)
 
 ### Recherche et documentation
-
+Recherche sur Phallaina et sur les parallax layers: 16h-18h (28.12.21)
 
 ### Apprentissage des outils utilisés
 
 ### Développement
 #### Récolte et formatage des données
-Téléchargement du texte et utilisation des fonctions native d'océrisation de mac.</br>
-Formatage du texte dans word pour avoir une édition semblable à celle de Gallimard.</br>
-Apposition des balises xml en utilisant des expressions régulières à travers un algorithme python.</br>
---> xxh
 
 #### Développement sur VSCode
 
