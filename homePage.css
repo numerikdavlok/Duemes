@@ -1,17 +1,23 @@
 body{
-    display: grid;
     font-family: 'typewriter';
 }
 
-.mainTitle{
-    text-align: center;
-    padding: 300px 0;
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
 }
+
 @font-face {
     font-family: myFirstFont;
     src: url(https://www.dafont.com/fr/jmh-typewriter.font);
  }
- 
- * {
+
+.title{
+    background-color: aqua;
+    text-align: center;
+    padding: 300px 0;
     font-family: myFirstFont;
- }
+}
+
+ 
