@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 body{
-<<<<<<< Updated upstream:homePage.css
-    font-family: 'typewriter';
+    font-family: 'Special Elite';
 }
 
 .container{
@@ -10,27 +9,11 @@ body{
     grid-template-rows: 1fr 1fr;
 }
 
-@font-face {
-    font-family: myFirstFont;
-    src: url(https://www.dafont.com/fr/jmh-typewriter.font);
- }
 
 .title{
     background-color: aqua;
     text-align: center;
     padding: 300px 0;
-    font-family: myFirstFont;
 }
 
  
-=======
-    display: grid;
-    font-family: 'Special Elite';
-}
-
-
-.mainTitle{
-    text-align: center;
-    padding: 300px 0;
-}
->>>>>>> Stashed changes:style.css
