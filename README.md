@@ -18,7 +18,9 @@ Ce travail serait également un pretexte pour comprendre dans la pratique du fon
 
 ## Temps de travail
 Ecriture du readme du projet inital (Poésie ininterrompue): 14h-16h (21.12.21)</br>
-Réflexion commune sur le projet: 18h-20h (21.12.21)</br>
+Réflexion commune sur le projet: </br>
+18h-20h (21.12.21)</br>
+storyboard du site et sélection des images/textes: 14h-16h (04.01.22)</br>
 Réécriture du readme suite la la réflexion commune: 17h-17h30 (28.12.21)</br>
 
 ### Recherche et documentation
