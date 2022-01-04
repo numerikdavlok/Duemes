@@ -7,3 +7,11 @@ body{
     text-align: center;
     padding: 300px 0;
 }
+@font-face {
+    font-family: myFirstFont;
+    src: url(https://www.dafont.com/fr/jmh-typewriter.font);
+ }
+ 
+ * {
+    font-family: myFirstFont;
+ }
