@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
 body{
+    margin: 0;
+    padding: 0;
     font-family: 'Special Elite';
 }
 
@@ -10,18 +13,18 @@ body{
 }
 
 .title{
-    background-color: aqua;
-    text-align: center;
-    padding: 300px 0;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    background-color: cyan;
 }
 
 .imgTitle{
-    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkcyan;
 }
-@font-face {
-    font-family: myFirstFont;
-    src: url(https://www.dafont.com/fr/jmh-typewriter.font);
- }
 
 
 
