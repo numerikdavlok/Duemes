@@ -32,4 +32,4 @@ Recherche sur Phallaina et sur les parallax layers: 16h-18h (28.12.21)</br>
 #### Récolte et formatage des données
 
 #### Développement sur VSCode
-
+Création de la page d'accueil: (04.01.22)
