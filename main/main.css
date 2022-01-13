@@ -1,0 +1,8 @@
+.containerMain{
+    display: grid;
+}
+
+.parasolImg{
+    max-width: 100%;
+    height: auto;
+}
