@@ -27,7 +27,7 @@ Réécriture du readme suite la la réflexion commune: 17h-17h30 (28.12.21)</br>
 Recherche sur Phallaina et sur les parallax layers: 16h-18h (28.12.21)</br>
 
 ### Apprentissage des outils utilisés
-Apprentissage du fonctionnement des grid CSS: 16h30-18h30(04.01.22)
+Apprentissage du fonctionnement des grid CSS: 16h30-18h30(04.01.22)</br>
 Usage des fonts: 16h30-18h (04.01.22)
 
 ### Développement
