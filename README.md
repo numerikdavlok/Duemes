@@ -35,5 +35,5 @@ Usage des fonts: 16h30-18h (04.01.22)
 
 #### Développement sur VSCode
 Création de la page d'accueil: 16h-18h30(04.01.22)
-Lien index-main, ajout image, recherche vectorisation image: 19h30-22h(13.01.22)
-Compréhension de la placement des élément avec grid: 16h-(23.01.22)
+Lien index-main, ajout image, recherche vectorisation image: 19h30-22h (13.01.22)
+Compréhension de la placement des élément avec grid + mise en place cadre de travail: 16h-18h30 (23.01.22)
