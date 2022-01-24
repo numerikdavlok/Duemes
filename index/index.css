@@ -9,7 +9,6 @@ body{
 .containerIndex{
     display: grid;
     height: 100vh;
-    grid-template-columns: 4fr;
     grid-template-rows: 4fr 4fr 1fr;
 }
 
