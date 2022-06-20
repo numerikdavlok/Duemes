@@ -32,9 +32,7 @@ Usage des fonts: 16h30-18h (04.01.22)
 
 ### Développement
 #### Récolte et formatage des données
-Apprentissage format SVG
-Vectorisation images sur illustrator avec calques et artboards, export en svg directement dans le projet
-
+Apprentissage vectorisation et conversion VSG
 
 #### Développement sur VSCode
 Création de la page d'accueil: 16h-18h30(04.01.22) </br>
